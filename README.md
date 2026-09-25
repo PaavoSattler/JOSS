@@ -47,7 +47,7 @@ The software is licensed under the MIT License.
 The manuscript and accompanying text are licensed under CC-BY 4.0.
 
 The content of this repository (manuscript, examples) is licensed under **CC-BY 4.0**.  
-The software itself is licensed under **MIT License** and maintained in [PSattlerStat/HypoShrink](https://github.com/PSattlerStat/HypoShrink).
+The software itself is licensed under **MIT License** and maintained in [PaavoSattler/HypoShrink](https://github.com/PaavoSattler/HypoShrink).
 
 ## Links
 
