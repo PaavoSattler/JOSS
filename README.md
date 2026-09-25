@@ -51,5 +51,5 @@ The software itself is licensed under **MIT License** and maintained in [PaavoSa
 
 ## Links
 
-- GitHub repository: [https://github.com/PSattlerStat/HypoShrink](https://github.com/PSattlerStat/HypoShrink)  
+- GitHub repository: [https://github.com/PaavoSattler/HypoShrink](https://github.com/PaavoSattler/HypoShrink)  
 - Manuscript for JOSS submission: `paper/paper.md`
