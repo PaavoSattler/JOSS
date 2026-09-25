@@ -13,7 +13,7 @@ You can install the development version directly from GitHub:
 
 ```r
 # install.packages("devtools") # if not already installed
-devtools::install_github("PSattlerStat/HypoShrink")
+devtools::install_github("PaavoSattler/HypoShrink")
 
 ```
 
